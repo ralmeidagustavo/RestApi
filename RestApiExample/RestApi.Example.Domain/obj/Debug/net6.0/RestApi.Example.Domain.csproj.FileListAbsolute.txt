@@ -1,0 +1,12 @@
+C:\Program Files\Pessoal\RestApi\RestApiExample\RestApi.Example.Domain\bin\Debug\net6.0\RestApi.Example.Domain.deps.json
+C:\Program Files\Pessoal\RestApi\RestApiExample\RestApi.Example.Domain\bin\Debug\net6.0\RestApi.Example.Domain.dll
+C:\Program Files\Pessoal\RestApi\RestApiExample\RestApi.Example.Domain\bin\Debug\net6.0\RestApi.Example.Domain.pdb
+C:\Program Files\Pessoal\RestApi\RestApiExample\RestApi.Example.Domain\obj\Debug\net6.0\RestApi.Example.Domain.csproj.AssemblyReference.cache
+C:\Program Files\Pessoal\RestApi\RestApiExample\RestApi.Example.Domain\obj\Debug\net6.0\RestApi.Example.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\Pessoal\RestApi\RestApiExample\RestApi.Example.Domain\obj\Debug\net6.0\RestApi.Example.Domain.AssemblyInfoInputs.cache
+C:\Program Files\Pessoal\RestApi\RestApiExample\RestApi.Example.Domain\obj\Debug\net6.0\RestApi.Example.Domain.AssemblyInfo.cs
+C:\Program Files\Pessoal\RestApi\RestApiExample\RestApi.Example.Domain\obj\Debug\net6.0\RestApi.Example.Domain.csproj.CoreCompileInputs.cache
+C:\Program Files\Pessoal\RestApi\RestApiExample\RestApi.Example.Domain\obj\Debug\net6.0\RestApi.Example.Domain.dll
+C:\Program Files\Pessoal\RestApi\RestApiExample\RestApi.Example.Domain\obj\Debug\net6.0\refint\RestApi.Example.Domain.dll
+C:\Program Files\Pessoal\RestApi\RestApiExample\RestApi.Example.Domain\obj\Debug\net6.0\RestApi.Example.Domain.pdb
+C:\Program Files\Pessoal\RestApi\RestApiExample\RestApi.Example.Domain\obj\Debug\net6.0\ref\RestApi.Example.Domain.dll

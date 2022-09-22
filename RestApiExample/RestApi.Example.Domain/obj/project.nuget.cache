@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "XPCbNNMFus+50ntyZp5sC6NtVL+nLvcIlBGt8YVgtHugUQdcVhUZ5IEhtIJRUDe+edG1wzUPtJ41LM6z85NGjA==",
+  "success": true,
+  "projectFilePath": "C:\\Program Files\\Pessoal\\RestApi\\RestApiExample\\RestApi.Example.Domain\\RestApi.Example.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.001\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.001\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.2\\microsoft.extensions.logging.abstractions.6.0.2.nupkg.sha512",
+    "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.001\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.001\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.001\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

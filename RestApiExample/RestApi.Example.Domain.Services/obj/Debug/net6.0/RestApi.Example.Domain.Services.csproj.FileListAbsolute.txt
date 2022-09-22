@@ -1,0 +1,17 @@
+C:\Program Files\Pessoal\RestApi\RestApiExample\RestApi.Example.Domain.Services\bin\Debug\net6.0\RestApi.Example.Domain.Services.deps.json
+C:\Program Files\Pessoal\RestApi\RestApiExample\RestApi.Example.Domain.Services\bin\Debug\net6.0\RestApi.Example.Domain.Services.dll
+C:\Program Files\Pessoal\RestApi\RestApiExample\RestApi.Example.Domain.Services\bin\Debug\net6.0\RestApi.Example.Domain.Services.pdb
+C:\Program Files\Pessoal\RestApi\RestApiExample\RestApi.Example.Domain.Services\bin\Debug\net6.0\RestApi.Example.Domain.dll
+C:\Program Files\Pessoal\RestApi\RestApiExample\RestApi.Example.Domain.Services\bin\Debug\net6.0\RestApi.Example.NewsApi.dll
+C:\Program Files\Pessoal\RestApi\RestApiExample\RestApi.Example.Domain.Services\bin\Debug\net6.0\RestApi.Example.NewsApi.pdb
+C:\Program Files\Pessoal\RestApi\RestApiExample\RestApi.Example.Domain.Services\bin\Debug\net6.0\RestApi.Example.Domain.pdb
+C:\Program Files\Pessoal\RestApi\RestApiExample\RestApi.Example.Domain.Services\obj\Debug\net6.0\RestApi.Example.Domain.Services.csproj.AssemblyReference.cache
+C:\Program Files\Pessoal\RestApi\RestApiExample\RestApi.Example.Domain.Services\obj\Debug\net6.0\RestApi.Example.Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\Pessoal\RestApi\RestApiExample\RestApi.Example.Domain.Services\obj\Debug\net6.0\RestApi.Example.Domain.Services.AssemblyInfoInputs.cache
+C:\Program Files\Pessoal\RestApi\RestApiExample\RestApi.Example.Domain.Services\obj\Debug\net6.0\RestApi.Example.Domain.Services.AssemblyInfo.cs
+C:\Program Files\Pessoal\RestApi\RestApiExample\RestApi.Example.Domain.Services\obj\Debug\net6.0\RestApi.Example.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Program Files\Pessoal\RestApi\RestApiExample\RestApi.Example.Domain.Services\obj\Debug\net6.0\RestApi.Example.Domain.Services.csproj.CopyComplete
+C:\Program Files\Pessoal\RestApi\RestApiExample\RestApi.Example.Domain.Services\obj\Debug\net6.0\RestApi.Example.Domain.Services.dll
+C:\Program Files\Pessoal\RestApi\RestApiExample\RestApi.Example.Domain.Services\obj\Debug\net6.0\refint\RestApi.Example.Domain.Services.dll
+C:\Program Files\Pessoal\RestApi\RestApiExample\RestApi.Example.Domain.Services\obj\Debug\net6.0\RestApi.Example.Domain.Services.pdb
+C:\Program Files\Pessoal\RestApi\RestApiExample\RestApi.Example.Domain.Services\obj\Debug\net6.0\ref\RestApi.Example.Domain.Services.dll
