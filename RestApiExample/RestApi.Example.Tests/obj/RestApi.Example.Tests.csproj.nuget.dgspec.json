@@ -1,0 +1,391 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Program Files\\Pessoal\\RestApi\\RestApiExample\\RestApi.Example.Tests\\RestApi.Example.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Program Files\\Pessoal\\RestApi\\RestApiExample\\RestApi.Example.Domain.Services\\RestApi.Example.Domain.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Program Files\\Pessoal\\RestApi\\RestApiExample\\RestApi.Example.Domain.Services\\RestApi.Example.Domain.Services.csproj",
+        "projectName": "RestApi.Example.Domain.Services",
+        "projectPath": "C:\\Program Files\\Pessoal\\RestApi\\RestApiExample\\RestApi.Example.Domain.Services\\RestApi.Example.Domain.Services.csproj",
+        "packagesPath": "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.001\\.nuget\\packages\\",
+        "outputPath": "C:\\Program Files\\Pessoal\\RestApi\\RestApiExample\\RestApi.Example.Domain.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.001\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://services.dev.bancobari.com.br/nexus/repository/nuget-hosted/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Program Files\\Pessoal\\RestApi\\RestApiExample\\RestApi.Example.NewsApi\\RestApi.Example.NewsApi.csproj": {
+                "projectPath": "C:\\Program Files\\Pessoal\\RestApi\\RestApiExample\\RestApi.Example.NewsApi\\RestApi.Example.NewsApi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Program Files\\Pessoal\\RestApi\\RestApiExample\\RestApi.Example.Domain\\RestApi.Example.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Program Files\\Pessoal\\RestApi\\RestApiExample\\RestApi.Example.Domain\\RestApi.Example.Domain.csproj",
+        "projectName": "RestApi.Example.Domain",
+        "projectPath": "C:\\Program Files\\Pessoal\\RestApi\\RestApiExample\\RestApi.Example.Domain\\RestApi.Example.Domain.csproj",
+        "packagesPath": "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.001\\.nuget\\packages\\",
+        "outputPath": "C:\\Program Files\\Pessoal\\RestApi\\RestApiExample\\RestApi.Example.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.001\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://services.dev.bancobari.com.br/nexus/repository/nuget-hosted/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Program Files\\Pessoal\\RestApi\\RestApiExample\\RestApi.Example.NewsApi\\RestApi.Example.NewsApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Program Files\\Pessoal\\RestApi\\RestApiExample\\RestApi.Example.NewsApi\\RestApi.Example.NewsApi.csproj",
+        "projectName": "RestApi.Example.NewsApi",
+        "projectPath": "C:\\Program Files\\Pessoal\\RestApi\\RestApiExample\\RestApi.Example.NewsApi\\RestApi.Example.NewsApi.csproj",
+        "packagesPath": "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.001\\.nuget\\packages\\",
+        "outputPath": "C:\\Program Files\\Pessoal\\RestApi\\RestApiExample\\RestApi.Example.NewsApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.001\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://services.dev.bancobari.com.br/nexus/repository/nuget-hosted/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Program Files\\Pessoal\\RestApi\\RestApiExample\\RestApi.Example.Domain\\RestApi.Example.Domain.csproj": {
+                "projectPath": "C:\\Program Files\\Pessoal\\RestApi\\RestApiExample\\RestApi.Example.Domain\\RestApi.Example.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Program Files\\Pessoal\\RestApi\\RestApiExample\\RestApi.Example.Tests\\RestApi.Example.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Program Files\\Pessoal\\RestApi\\RestApiExample\\RestApi.Example.Tests\\RestApi.Example.Tests.csproj",
+        "projectName": "RestApi.Example.Tests",
+        "projectPath": "C:\\Program Files\\Pessoal\\RestApi\\RestApiExample\\RestApi.Example.Tests\\RestApi.Example.Tests.csproj",
+        "packagesPath": "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.001\\.nuget\\packages\\",
+        "outputPath": "C:\\Program Files\\Pessoal\\RestApi\\RestApiExample\\RestApi.Example.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.001\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://services.dev.bancobari.com.br/nexus/repository/nuget-hosted/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Program Files\\Pessoal\\RestApi\\RestApiExample\\RestApi.Example.Domain.Services\\RestApi.Example.Domain.Services.csproj": {
+                "projectPath": "C:\\Program Files\\Pessoal\\RestApi\\RestApiExample\\RestApi.Example.Domain.Services\\RestApi.Example.Domain.Services.csproj"
+              },
+              "C:\\Program Files\\Pessoal\\RestApi\\RestApiExample\\RestApiExample.Api\\RestApiExample.Api.csproj": {
+                "projectPath": "C:\\Program Files\\Pessoal\\RestApi\\RestApiExample\\RestApiExample.Api\\RestApiExample.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.2, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Program Files\\Pessoal\\RestApi\\RestApiExample\\RestApiExample.Api\\RestApiExample.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Program Files\\Pessoal\\RestApi\\RestApiExample\\RestApiExample.Api\\RestApiExample.Api.csproj",
+        "projectName": "RestApiExample.Api",
+        "projectPath": "C:\\Program Files\\Pessoal\\RestApi\\RestApiExample\\RestApiExample.Api\\RestApiExample.Api.csproj",
+        "packagesPath": "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.001\\.nuget\\packages\\",
+        "outputPath": "C:\\Program Files\\Pessoal\\RestApi\\RestApiExample\\RestApiExample.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.001\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://services.dev.bancobari.com.br/nexus/repository/nuget-hosted/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Program Files\\Pessoal\\RestApi\\RestApiExample\\RestApi.Example.Domain.Services\\RestApi.Example.Domain.Services.csproj": {
+                "projectPath": "C:\\Program Files\\Pessoal\\RestApi\\RestApiExample\\RestApi.Example.Domain.Services\\RestApi.Example.Domain.Services.csproj"
+              },
+              "C:\\Program Files\\Pessoal\\RestApi\\RestApiExample\\RestApi.Example.Domain\\RestApi.Example.Domain.csproj": {
+                "projectPath": "C:\\Program Files\\Pessoal\\RestApi\\RestApiExample\\RestApi.Example.Domain\\RestApi.Example.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
